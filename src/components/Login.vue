@@ -37,15 +37,15 @@ h3 {
 }
 
 .images {
-  max-width: 60%;
-  max-height: 60%;
+  max-width: 20rem;
+  max-height: 20rem;
   margin-top: 4rem;
   margin-bottom: 4.5rem;
 }
 
 .bg {
   background: linear-gradient(35deg, #00b4db, #336699);
-  padding-bottom: 400px;
+  padding-bottom: 600px;
 }
 
 .button {
